@@ -1,0 +1,36 @@
+CDU_FIELD_NAME,CENSUS_CELLNAME,TOPIC,CATEGORY,TOPIC_DESCRIPTION,
+F10,QS402EW0001,Accommodation type,Total\ Accommodation type,"The type of accommodation used or available for use by an individual household. Examples include the whole of a terraced house, or a flat in a purpose-built block of flats.",
+F10,QS402EW0001,Unit,Households,The unit is for a particular count (e.g. people or households),
+F1663,QS201EW0001,Ethnic group [E][S][W],Total\ Ethnic group,Ethnic group classifies people according to their own perceived ethnic group and cultural background.,
+F1663,QS201EW0001,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F2384,QS102EW0001,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F2384,QS102EW0001,Population (usual residents),All usual residents,"The main population base for statistics from the 2011 Census is the usual resident population as at census day, 27 March 2011. Although the population base for enumeration included non-UK born short-term residents, this population is analysed separately and is not included in the main outputs from the 2011 Census.
+<br/> All statistics, unless specified, are produced using only usual residents of the UK.
+For 2011 Census purposes, a usual resident of the UK is anyone who, on census day, was in the UK and had stayed or intended to stay in the UK for a period of 12 months or more, or had a permanent UK address and was outside the UK and intended to be outside the UK for less than 12 months.
+For information about the main population base for statistics, how other population sub-groups are counted, and all variable definitions, see information about  <a href="http://web.ons.gov.uk/ons/guide-method/census/2011/census-data/2011-census-user-guide/information-by-variable/index.html" target="_blank">variables and classifications</a>.",
+F989,QS416EW0001,Car or van availability,Total\ Car or van availability,"The number of cars or vans that are owned, or available for use, by one or more members of a household. This includes company cars and vans that are available for private use. It does not include motorbikes or scooters, or any cars or vans belonging to visitors.
+<br/>
+The count of cars or vans in an area relates only to households. Cars or vans used by residents of communal establishments were not counted.
+<br/>
+Households with 10 to 20 cars or vans were counted as having only 1.
+<br/>
+Responses indicating a number of cars or vans greater than 20 were treated as invalid and a value was imputed.",
+F989,QS416EW0001,Unit,Households,The unit is for a particular count (e.g. people or households),
+F990,QS416EW0007,Car or van availability,Total\ Car or van availability,"The number of cars or vans that are owned, or available for use, by one or more members of a household. This includes company cars and vans that are available for private use. It does not include motorbikes or scooters, or any cars or vans belonging to visitors.
+<br/>
+The count of cars or vans in an area relates only to households. Cars or vans used by residents of communal establishments were not counted.
+<br/>
+Households with 10 to 20 cars or vans were counted as having only 1.
+<br/>
+Responses indicating a number of cars or vans greater than 20 were treated as invalid and a value was imputed.",
+F990,QS416EW0007,Unit,Cars or vans,The unit is for a particular count (e.g. people or households),
+F996,QS119EW0001,"Deprivation, classification of household [E][S][W]",Total\ Classification of household deprivation,"The dimensions of deprivation used to classify households are indicators based on four selected household characteristics. A household is deprived in a dimension if they meet one or more of the following conditions:
+<ul>
+<li/>Employment: Where any member of a household, who is not a full-time student, is either unemployed or long-term sick.
+<li/>Education: No person in the household has at least Level 2 education (see highest level of qualification), and no person aged 16 to 18 is a full-time student.
+<li/>Health and disability: Any person in the household has general health that is 'bad' or 'very bad' or has a long-term health problem.
+<li/>Housing: The household's accommodation is either overcrowded, with an occupancy rating -1 or less, or is in a shared dwelling, or has no central heating.
+</ul>
+<br/>
+A household is classified as being deprived in none, or one to four of these dimensions in any combination.",
+F996,QS119EW0001,Unit,Households,The unit is for a particular count (e.g. people or households),
